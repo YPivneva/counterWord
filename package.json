@@ -1,0 +1,12 @@
+{
+  "name": "counterword",
+  "version": "1.0.0",
+  "description": "Counting the number of identical words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "YPivneva",
+  "license": "ISC"
+}
